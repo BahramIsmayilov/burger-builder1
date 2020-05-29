@@ -4,12 +4,10 @@ import React, { Component } from "react";
 class BurgerBuilder extends Component {
   render() {
     return (
-      // <Aux>
-      <>
+      <div>
         <div>hello</div>
         <div>name: Mehman</div>
-      </>
-      // </Aux>
+      </div>
     );
   }
 }
